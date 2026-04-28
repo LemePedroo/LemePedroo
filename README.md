@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <strong style="font-size: 28px;">👨‍💻 About Me</strong>
+  <strong style="font-size: 50px;">👨‍💻 About Me</strong>
 </p>
 
 Hi! I'm **Pedro Leme**.
@@ -22,7 +22,7 @@ I'm a **Full Stack Developer** with **3 years of experience**, based in **Brazil
 
 ---
 <p align="center">
-<strong style="font-size: 28px;">🧠 Tech Stack & Tools</strong>
+<strong style="font-size: 50px;">🧠 Tech Stack & Tools</strong>
 </p>
 
 <div align="center">
