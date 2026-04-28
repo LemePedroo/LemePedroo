@@ -9,7 +9,9 @@
 
 ---
 
-<h2>👨‍💻 About Me</h2>
+<p align="center">
+  <strong style="font-size: 28px;">👨‍💻 About Me</strong>
+</p>
 
 Hi! I'm **Pedro Leme**.
 I'm a **Full Stack Developer** with **3 years of experience**, based in **Brazil**.
@@ -19,8 +21,9 @@ I'm a **Full Stack Developer** with **3 years of experience**, based in **Brazil
 🎯 Focused on creating scalable, efficient, and maintainable solutions.
 
 ---
-
-<h2>🧠 Tech Stack & Tools</h2>
+<p align="center">
+<strong style="font-size: 28px;">🧠 Tech Stack & Tools</strong>
+</p>
 
 <div align="center">
 
