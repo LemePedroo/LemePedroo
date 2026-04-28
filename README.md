@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pedro+Leme;Welcome+to+my+GitHub!;Full+Stack+Developer" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pedro+Leme;Welcome+to+my+GitHub!;Full+Stack+Developer"/>
 
 <br>
 
