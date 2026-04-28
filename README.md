@@ -3,13 +3,13 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pedro+Leme;Welcome+to+my+GitHub!;Full+Stack+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pedro+Leme;Welcome+to+my+GitHub!;Full+Stack+Developer" alt="Typing SVG"/>
 
 <br>
 
 ---
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
 Hi! I'm **Pedro Leme**.
 I'm a **Full Stack Developer** with **3 years of experience**, based in **Brazil**.
@@ -20,7 +20,7 @@ I'm a **Full Stack Developer** with **3 years of experience**, based in **Brazil
 
 ---
 
-## 🧠 Tech Stack & Tools
+<h2>🧠 Tech Stack & Tools</h2>
 
 <div align="center">
 
