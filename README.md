@@ -27,7 +27,7 @@ I'm a **Full Stack Developer** with **3 years of experience**, based in **Brazil
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=oracle,python,nodejs,ts,js,html,css,react,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=oracle,python,nodejs,ts,js,html,css,react,git,&theme=dark" />
 
 <br>
 
